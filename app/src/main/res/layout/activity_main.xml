@@ -40,7 +40,7 @@
         android:layout_width="278dp"
         android:layout_height="47dp"
         android:layout_marginBottom="160dp"
-        android:text="To My New App"
+        android:text="To MyApp"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#00f"
         app:layout_constraintBottom_toTopOf="@+id/button"
